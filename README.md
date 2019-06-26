@@ -2,7 +2,7 @@
 
 <img src = 
 "https://github.com/trashidi98/PhotoBooth/blob/master/Another_angle.jpg" 
-width = "300" height = "400">
+width = "400" height = "500">
 
 PhotoBooth is a prototype that allows people to take pictures from their Rasberry Pi camera with the push of a button. The idea came to me as I was looking to get deeper into the Rasberry Pi camera. Camera + LED + Push button naturally leads one to make a photobooth right? 
  
